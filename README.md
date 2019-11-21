@@ -2,7 +2,7 @@
 
 ## Practica Número 4
 ---
-##Restauración de una Base de Datos.
+## Restauración de una Base de Datos.
 
 ---
 
@@ -26,4 +26,3 @@ ANALYSE actor;
 
 Mas comandos que no entiendo pero estaban ahí
 ![wget, unzip](images/7.jpeg)
-
