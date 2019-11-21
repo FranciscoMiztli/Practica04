@@ -1,6 +1,6 @@
 # Administracion de Base de Datos 
 
-## Practica NUmero 4
+## Practica Número 4
 ---
 ##Restauración de una Base de Datos.
 
@@ -9,7 +9,7 @@
 Obtencion y descompresión del la base de datos a travez de los comandos ***WGET*** y ***UNZIP***
 ![wget, unzip](images/1.jpeg)
 
-Iniciar ***postgres*** y creamos una base de datos vacia llamada ***dvfrental***
+Iniciar ***postgres*** y creamos una base de datos vacia llamada ***dvdrental***
 ![wget, unzip](images/2.jpeg)
 
 Restaurando la Base de Datos
@@ -26,3 +26,4 @@ ANALYSE actor;
 
 Mas comandos que no entiendo pero estaban ahí
 ![wget, unzip](images/7.jpeg)
+
